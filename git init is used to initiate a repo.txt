@@ -14,3 +14,13 @@ md 768px to 992px
 lg 992px to 1280px,1366px
 *1 1355px to 1586px
 **1 1586 and above
+syntax: to write code in css
+@media (screensize){
+    selector{
+        property:value;
+        property:value;
+    }
+}
+screensize max-width,min-width
+max-width:768px 
+min-width:576px
